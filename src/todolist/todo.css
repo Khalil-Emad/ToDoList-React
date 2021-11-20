@@ -1,0 +1,10 @@
+
+li {
+    text-align: left;
+    display: flex; 
+    flex-wrap: nowrap;
+}
+
+#btns{
+    margin-left:50%;
+}
